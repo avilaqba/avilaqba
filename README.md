@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<div> 
-    <object type="text/html" data="http://validator.w3.org/" width="800px" height="600px" style="overflow:auto;border:5px ridge blue">
-    </object>
- </div>
+### Behzad Aslani Avilaq
+
+## Data Scientist | Data Analyst | Bioinformatician
+Holding a bachelor degree in Applied Mathematics and a master's degree in Applied Informatics, I have a strong experience in machine learning, deep learning, and heuristics approaches.
