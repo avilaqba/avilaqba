@@ -2,7 +2,7 @@
 
 <!--
 **avilaqba/avilaqba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<iframe id="frame" src="https://web.itu.edu.tr/avilaq16/" scrolling="yes"></iframe>
+<iframe src="https://web.itu.edu.tr/avilaq16/" width=100% height=100%></iframe>
 
 Here are some ideas to get you started:
 
