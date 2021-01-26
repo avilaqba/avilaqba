@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](./path/example.svg)
+![](html.svg)
