@@ -4,7 +4,8 @@
         <ul>
             <li>text</li>
         </ul>
-        <!-- Other embed HTML element/text into SVG -->
+        <iframe src="https://web.itu.edu.tr/avilaq16/" width=100% height=100%></iframe>    </div>
+
     </div>
 </foreignObject>
 </svg>
