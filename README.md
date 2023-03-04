@@ -1,7 +1,7 @@
 
 # Behzad Aslani Avilaq
 
-## Data Scientist
+## Senior Data Scientist
 As a PhD candidate in Information and Communication Engineering, currently in the thesis stage, my academic
 background includes a BSc degree in Applied Mathematics and a MSc degree in Applied Informatics, I am a data
 scientist with extensive experience in working with big data, a proven track record of analyzing data and building
